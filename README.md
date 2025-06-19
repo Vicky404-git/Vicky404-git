@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I'm Vikas 👋
 - 🧠 Computer Science Student at Vishwakarma University<br>
 - 🌱 I’m currently learning AI-ML<br>
 - 📫 How to reach me: [Instagram](https://www.instagram.com/vicky_d_404/)<br>
