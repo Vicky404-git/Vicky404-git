@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+- 🧠 Computer Science Student at Vishwakarma University<br>
+- 🌱 I’m currently learning AI-ML<br>
+- 📫 How to reach me: [Instagram](https://www.instagram.com/vicky_d_404/)<br>
 <!--
 **Vicky404-git/Vicky404-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
