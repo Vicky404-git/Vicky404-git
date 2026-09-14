@@ -25,6 +25,7 @@ I enjoy building Linux-first developer tools, terminal-native software, and loca
 - 🌐 **Portfolio:** https://vicky404-git.github.io
 - 💼 **LinkedIn:** https://www.linkedin.com/in/vikas-dhruw-793a60345
 - 📷 **Instagram:** https://www.instagram.com/vicky_d_404
+- X  **X:** https://x.com/vicky_d404
 
 ---
 
